@@ -1,0 +1,32 @@
+{
+  "name": "real-estate-lab",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "eslint": "eslint ./ --ignore-path .gitignore",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kelp404/real-estate-lab.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kelp404/real-estate-lab/issues"
+  },
+  "homepage": "https://github.com/kelp404/real-estate-lab#readme",
+  "dependencies": {
+    "chalk": "4.1.2",
+    "cli-table": "0.3.11",
+    "commander": "9.4.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.18.9",
+    "@babel/eslint-parser": "7.18.9",
+    "eslint": "8.20.0",
+    "eslint-config-xo": "0.41.0",
+    "eslint-plugin-import": "2.26.0"
+  }
+}
