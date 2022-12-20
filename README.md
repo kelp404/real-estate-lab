@@ -1,5 +1,14 @@
 # real-estate-lab
 
+
+## Installation
+```bash
+git clone https://github.com/kelp404/real-estate-lab.git
+cd real-estate-lab
+npm install
+```
+
+
 ## How to use?
 ### 1. Modify [index.js](index.js).
 ```js
